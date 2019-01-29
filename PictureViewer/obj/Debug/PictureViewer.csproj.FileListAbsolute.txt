@@ -1,0 +1,35 @@
+c:\users\hl\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+c:\users\hl\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+c:\users\hl\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\MainWindow.baml
+c:\users\hl\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\MainWindow.g.cs
+c:\users\hl\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\App.g.cs
+c:\users\hl\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer_MarkupCompile.cache
+c:\users\hl\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.g.resources
+c:\users\hl\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+c:\users\hl\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.Cache
+c:\users\hl\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+c:\users\hl\documents\visual studio 2013\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+D:\work\CustomSoftware\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+D:\work\CustomSoftware\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+D:\work\CustomSoftware\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+D:\work\CustomSoftware\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\work\CustomSoftware\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojResolveAssemblyReference.cache
+D:\work\CustomSoftware\PictureViewer\PictureViewer\obj\Debug\MainWindow.baml
+D:\work\CustomSoftware\PictureViewer\PictureViewer\obj\Debug\MainWindow.g.cs
+D:\work\CustomSoftware\PictureViewer\PictureViewer\obj\Debug\App.g.cs
+D:\work\CustomSoftware\PictureViewer\PictureViewer\obj\Debug\PictureViewer_MarkupCompile.cache
+D:\work\CustomSoftware\PictureViewer\PictureViewer\obj\Debug\PictureViewer.g.resources
+D:\work\CustomSoftware\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+D:\work\CustomSoftware\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.Cache
+D:\vsProject\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+D:\vsProject\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+D:\vsProject\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+D:\vsProject\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\vsProject\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojResolveAssemblyReference.cache
+D:\vsProject\PictureViewer\PictureViewer\obj\Debug\MainWindow.baml
+D:\vsProject\PictureViewer\PictureViewer\obj\Debug\MainWindow.g.cs
+D:\vsProject\PictureViewer\PictureViewer\obj\Debug\App.g.cs
+D:\vsProject\PictureViewer\PictureViewer\obj\Debug\PictureViewer_MarkupCompile.cache
+D:\vsProject\PictureViewer\PictureViewer\obj\Debug\PictureViewer.g.resources
+D:\vsProject\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+D:\vsProject\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.Cache
